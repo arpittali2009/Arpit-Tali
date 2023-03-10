@@ -1,0 +1,47 @@
+<DOCTYPE html>
+</DOCTYPE html>
+<html lang="eng">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Arpit Tali</title>
+    </head>
+    <style type="text/css">
+        .youtube {
+            width: 160px;
+            clip-path: circle();
+    </style>
+    <body background="https://my4kwallpapers.com/wp-content/uploads/2020/09/Nature-Backgrounds.jpg">
+        <br><br>
+        <h3 align="center">
+            <font face="Abril Fatface" size="6"><u>Arpit Tali</u></font>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <font face="cinzel" size="4">
+                <a href="https://www.youtube.com/@arpittali17">Channel</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="https://youtube.com/playlist?list=PLWxGyCO6Jc_M3POdB1pEInPwxOCkLMOik">Vlogs</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="https://youtube.com/playlist?list=PLWxGyCO6Jc_NfOuHHHpeBCZo2HsbQbj21">Flute</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="https://youtube.com/playlist?list=PLWxGyCO6Jc_O4nrb5YgRNgL16LcrI7bjF">Piano</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="https://www.youtube.com/playlist?list=PLWxGyCO6Jc_PUBnbKs07UDdJZlKk_Zpzi">Harmonica</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="#">Contact Us</a>&nbsp;&nbsp;&nbsp;&nbsp;
+            </font>
+        </h3><br>
+        <h3 align="center">
+            <div class="img"><img src="https://yt3.googleusercontent.com/9HxDfaxieDzbhkQHCCpY0lQpQB4tEXRAVqtDWHxivTO8lMuFMYMz3f-Lo2vYdmY7r9MxYoATV6I=s88-c-k-c0x00ffffff-no-rj" class="youtube" alt="youtube"></div>
+        </h3>
+        <br><br><br>
+        <h1 align="center">
+            <font face="Lato" color="#E8E8E8" size="9">
+                <u>Welcome to my Webpage.</u>
+            </font>
+        </h1>
+        <h3 align="center">
+            <font face="Lato" color="#000" size="4">
+                Here, You can know about my channel and can contact me.
+            </font>
+        </h3>
+        <br />
+        <h3 align="center">
+            <a href="https://www.youtube.com/@arpittali17">Subscribe Us</a>
+        </h3>
+    </body>
+</html>
